@@ -1,2 +1,1 @@
-# connectify
-social media application
+Chat Application
